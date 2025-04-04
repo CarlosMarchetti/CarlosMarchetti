@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Carlos Marchetti
+## 👋 Olá! Eu sou o Carlos
 
 🎓 Tenho 17 anos, sou apaixonado por tecnologia e desenvolvimento de software.  
 💻 Trabalho com **Java, JavaScript, PHP, HTML, CSS e C#**  
