@@ -1,9 +1,11 @@
 ## 👋 Olá! Eu sou o Carlos
 
 🎓 Tenho 17 anos, sou apaixonado por tecnologia e desenvolvimento de software.  
-💻 Trabalho com **Java, JavaScript, PHP, HTML, CSS e C#**  
+💻 Trabalho com **Java, JavaScript, PHP, HTML, CSS, C#, Python**  
 🚀 Atualmente estudando **React, TypeScript, C++ e Pentesting**  
-🔍 Sempre em busca de novos conhecimentos e desafios na área de desenvolvimento!
+🔍 Sempre em busca de novos conhecimentos e desafios na área de desenvolvimento!  
+
+---
 
 ### 🛠️ Tecnologias que utilizo:
 
@@ -13,13 +15,16 @@
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
+---
+
 ### 📫 Como me encontrar:
 
-- Email: `cmarchetti.dev@proton.me`
+- Email: `carlosmarchettidev@gmail.com`
 - LinkedIn: *em breve* 😉
 - Portfólio: [github.com/CarlosMarchetti](https://github.com/CarlosMarchetti)
 
