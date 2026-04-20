@@ -10,6 +10,7 @@
 * 🔹 **IntelliScraper**
   Automação de navegador com Playwright + stealth anti-detection
   → foco em fingerprint evasion e scraping avançado
+  🔗 https://github.com/CarlosMarchetti/IntelliScraper  
 
 ---
 
