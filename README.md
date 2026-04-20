@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Carlos
 
-🎓 Tenho 17 anos, sou apaixonado por tecnologia e desenvolvimento de software.  
+🎓 Tenho 18 anos, sou apaixonado por tecnologia e desenvolvimento de software.  
 💻 Trabalho com **Java, JavaScript, PHP, HTML, CSS, C#, Python**  
 🚀 Atualmente estudando **React, TypeScript, C++ e Pentesting**  
 🔍 Sempre em busca de novos conhecimentos e desafios na área de desenvolvimento!  
@@ -24,7 +24,7 @@
 
 ### 📫 Como me encontrar:
 
-- Email: `carlosmarchettidev@gmail.com`
+- Email: `cmarchetti.dev@gmail.com`
 - LinkedIn: *em breve* 😉
 - Portfólio: [github.com/CarlosMarchetti](https://github.com/CarlosMarchetti)
 
