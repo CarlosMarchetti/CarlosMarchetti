@@ -115,8 +115,10 @@ Backend Architecture    Security Research     Performance
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CarlosMarchetti&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub de Carlos Marchetti" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMarchetti&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas por Carlos Marchetti" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosMarchetti&theme=github_dark" alt="Resumo do perfil de Carlos Marchetti" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosMarchetti&theme=github_dark" alt="Estatísticas do GitHub de Carlos Marchetti" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosMarchetti&theme=github_dark" alt="Linguagens por repositório de Carlos Marchetti" />
 
 </div>
 
